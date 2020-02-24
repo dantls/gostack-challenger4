@@ -5,6 +5,13 @@
     margin-left: 300px;
     align-items: flex-start;  
     background: #FFF;
-    width:650px;
+    width:700px;
+    border-radius: 8px;
+    padding: 20px;
+    line-height: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   
       
 }
+
+
